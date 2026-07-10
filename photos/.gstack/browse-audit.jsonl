@@ -1,0 +1,13 @@
+{"ts":"2026-07-05T13:30:52.537Z","cmd":"viewport","args":"1280x900","origin":"about:blank","durationMs":5,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-07-05T13:30:52.691Z","cmd":"goto","args":"http://192.168.0.88:5173/src/home/","origin":"http://192.168.0.88:5173/src/home/","durationMs":97,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-07-05T13:30:54.910Z","cmd":"screenshot","args":"--viewport /tmp/pass05-hero-final-desktop.png","origin":"http://192.168.0.88:5173/src/home/","durationMs":162,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-07-05T13:30:54.975Z","cmd":"viewport","args":"375x812","origin":"http://192.168.0.88:5173/src/home/","durationMs":10,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-07-05T13:30:55.053Z","cmd":"goto","args":"http://192.168.0.88:5173/src/home/","origin":"http://192.168.0.88:5173/src/home/","durationMs":26,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-07-05T13:30:57.181Z","cmd":"screenshot","args":"--viewport /tmp/pass05-hero-final-mobile.png","origin":"http://192.168.0.88:5173/src/home/","durationMs":77,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-07-05T13:32:55.101Z","cmd":"viewport","args":"1280x900","origin":"http://192.168.0.88:5173/src/home/","durationMs":40,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-07-05T13:32:55.266Z","cmd":"goto","args":"http://192.168.0.88:5173/src/home/","origin":"http://192.168.0.88:5173/src/home/","durationMs":40,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-07-05T13:32:57.518Z","cmd":"screenshot","args":"--viewport /tmp/pass05-hero-v2-desktop.png","origin":"http://192.168.0.88:5173/src/home/","durationMs":172,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-07-05T13:32:57.584Z","cmd":"viewport","args":"375x812","origin":"http://192.168.0.88:5173/src/home/","durationMs":6,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-07-05T13:32:57.677Z","cmd":"goto","args":"http://192.168.0.88:5173/src/home/","origin":"http://192.168.0.88:5173/src/home/","durationMs":27,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-07-05T13:32:59.814Z","cmd":"screenshot","args":"--viewport /tmp/pass05-hero-v2-mobile.png","origin":"http://192.168.0.88:5173/src/home/","durationMs":66,"status":"ok","hasCookies":false,"mode":"launched"}
+{"ts":"2026-07-05T13:32:59.894Z","cmd":"js","args":"(() => {const el = document.querySelector('.bubble-yasmina'); const s = getComputedStyle(el); return {color: s.color, bg: s.backgroundColor, weight: s.fontWeight};})()","origin":"http://192.168.0.88:5173/src/home/","durationMs":4,"status":"ok","hasCookies":false,"mode":"launched"}
